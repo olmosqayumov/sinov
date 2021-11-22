@@ -1,32 +1,129 @@
-.h5 {
-  margin-left: 130px;
+
+.container{
+  .row{
+      ul{
+text-decoration: none;
+      display: inline-block;
+        margin-top: 50px;
+        li{
+          text-decoration:  none;
+          display: inline-block;
+          padding: 15px;
+          a{
+            padding: 15px;
+            font-size: 20px;
+            text-decoration: none;
+            color: #18a3ff;
+          }
+
+          .a1{
+            margin-left: 250px;
+          }
+
+
+
+        }
+    }
+  }
 }
-.h6{
-  margin-left: 400px;
+
+a:hover{
+  border-top: 1px solid silver;
+  font-size: 35px;
 }
-.avatar{
-  width: 130px;
-  height: 130px;
-  margin-left: 44%;
+
+
+
+
+section{
+  margin-left: 50px;
+  width: 1800px !important;
+  background-color: silver !important;
+  height: 800px;
 }
-.sec1{
-  background-color: #0f6674;
+
+.col-6{
+  img{
+    margin-left:150px;
+    margin-top: 15px;
+  }
+
+  h4{
+    margin-left: 280px;
+    margin-top: -80px;
+  }
+ button{
+   background-color: white !important;
+   margin-top: 5px;
+   margin-left: 280px;
+   font-size: 20px;
+
+
+   img{
+     margin-top: -5px;
+     margin-right:10px ;
+     width: 20px;
+     height: 20px;
+   }
+ }
+
 }
-.cab{
-  width: 250px;
-  height: auto;
-  border-radius: 4px;
+
+.col-5{
+  background-color: yellowgreen;
+  width:400px !important;
+  color: white;
+  height: 100px;
+  margin-left: 1000px;
+  margin-top:-50px;
+.h3{
+  margin-left:250px !important;
+  margin-top: 10px;
 }
-.cab1{
-  margin-left: 160px;
+
 }
-.co3{
-  margin-left: 200px;
+
+
+.div{
+  margin-top: 200px;
+  margin-left:400px;
 }
-.but1 {
-  margin-left: 44%;
+
+
+.divv{
+  .row{
+    .box1{
+      margin-left: 20%;
+    }
+  }
 }
-.imgg{
-  width: 10px;
-  height: auto;
+.col-3 {
+  background-color: white;
+  border: 10px solid silver;
+  border-radius: 5px;
+  height: 250px;
+
+  .div01{
+    margin-left: 250px;
+    margin-top: -70px;
+
+  }
+
+  .h11{
+    text-align: center;
+    margin-top: 50px;
+  }
+
+
+  .div001{
+    text-align: center;
+  }
+
 }
+
+.col-3:hover{
+  background-color:#4e555b;
+}
+
+
+
